@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftHand
+  - RightHand
+  - LocalPlayer
+  - NetPlayer
+  - NetLHandPlayer
+  - NetRHandPlayer
+  - LocalLHandPlayer
+  - LocalRHandPlayer
+  - Bullet
+  - Runner
+  - Fighter
+  - Pistol
+  - Sniper
+  - WaveManager
+  - RoundTag
+  - HealthTag
+  - BTrapPlacer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - Trap Ground
+  - Enemy
+  - Player
+  - Body
+  - Floor
+  - Barricate
+  - Portal
+  - Ragdoll
+  - Bala
+  - NetPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
