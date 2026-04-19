@@ -711,7 +711,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   agent: {fileID: 3710716099785901168}
-  health: 300
+  health: 210
   destination: {fileID: 6299025131518946607, guid: 8aa1f63f0bc9b05499d9107da84ba940,
     type: 3}
   timeToAttack: 2
