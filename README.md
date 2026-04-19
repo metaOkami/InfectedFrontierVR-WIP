@@ -143,7 +143,7 @@ Assets/
 
 ### Prerequisites
 - **Oculus / Meta Quest** headset (or any OpenXR-compatible HMD)
-
+- Download the exe [here](https://github.com/metaOkami/InfectedFrontierVR-WIP/releases/tag/0.1)
 
 
 
