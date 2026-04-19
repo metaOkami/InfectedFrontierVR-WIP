@@ -6,7 +6,7 @@
 
 **Defend the portal. Set your traps. Survive the horde.**
 
-[![Unity](https://img.shields.io/badge/Unity-2021.3.10f1-black?logo=unity)](https://unity.com/)
+[![Unity](https://img.shields.io/badge/Unity-2021.3.45f2-black?logo=unity)](https://unity.com/)
 [![Photon PUN 2](https://img.shields.io/badge/Netcode-Photon%20PUN%202-blue?logo=photon)](https://www.photonengine.com/pun)
 [![XR Interaction Toolkit](https://img.shields.io/badge/VR-XR%20Interaction%20Toolkit-green?logo=oculus)](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.0/manual/index.html)
 [![OpenXR](https://img.shields.io/badge/Platform-OpenXR%20%7C%20Oculus-orange?logo=meta)](https://www.khronos.org/openxr/)
